@@ -1,0 +1,2 @@
+# Ramala
+linux commands
