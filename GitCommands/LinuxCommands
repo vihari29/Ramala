@@ -8,4 +8,10 @@ useadd
 uermod
 groupadd
 userdel
-
+env
+cat
+touch
+rm
+rmdir
+export
+unset
